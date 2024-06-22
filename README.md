@@ -1,5 +1,4 @@
-# Project Title
-The Smoking Gun: Unveiling GPT-4’s memorisation of Polish Texts and Implications for Copyright Infringement
+# The Smoking Gun: Unveiling GPT-4’s memorisation of Polish Texts and Implications for Copyright Infringement
 
 ## Overview
 This repository consists of part of the code used for my Master's thesis. The data could not be shared due to its copyrighted nature. 
