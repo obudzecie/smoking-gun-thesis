@@ -1,7 +1,7 @@
 # The Smoking Gun: Unveiling GPT-4’s memorisation of Polish Texts and Implications for Copyright Infringement
 
 ## Overview
-This repository consists of part of the code used for my Master's thesis. The data could not be shared due to its copyrighted nature of the literary works. For the other part of the research, where I checked the memorisation of News, the code cannot be shared. The data used for this is however publiclt avaliable as it is the MC4 dataset.
+This repository consists of part of the code used for my research. The data could not be shared due to its copyrighted nature of the literary works.
 To access the dataset that I used email me at budzikwjoanna@gmail.com
 
 ## Books Processing with GPT Models
